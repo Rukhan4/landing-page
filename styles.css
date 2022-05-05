@@ -160,7 +160,9 @@ h2 {
 }
 
 .sign-up {
-    text-align: left;
+    display: inline-block;
+    margin-right: 350px;
+    margin-left: -150px;
 }
 
 h3 {
